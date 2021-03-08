@@ -1,0 +1,19 @@
+/*
+Theme Name: NWDigital Basic Blank
+Theme URI: https://nwdigital.cloud
+Author: mathewemoore
+Author URI: https://mattmoore.ninja
+Description: This is a basic blank theme to be used for various web applications that don't need all the bloat.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: nwdigital
+Tags: blank, basic
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+h1 {
+    /* background-image: url(images/Facebook-OG-Image.jpg); */
+}
