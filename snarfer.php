@@ -1,6 +1,7 @@
 <?php
 /**
  * Template Name: Snarfer.php
+ * Template Post Type: post, page, product
  *
  * @package NWDigital
  */
